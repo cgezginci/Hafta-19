@@ -1,6 +1,6 @@
 Butonların her birine tıklanıldığında farklı sesler çıkmaktadır.
 
-https://cgezginci.github.io/Hafta-19/index.html
+
 
 
 
