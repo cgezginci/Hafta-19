@@ -1,6 +1,6 @@
 Butonların her birine tıklanıldığında farklı sesler çıkmaktadır.
 
-[İnternet Sitesi](https://cgezginci.github.io/Hafta-19)
+[İnternet Sitesi](https://cgezginci.github.io/drumkit)
 
 
 
